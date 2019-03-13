@@ -1,0 +1,11 @@
+Devon Puchailo drp882
+Molham Kaadan mok340
+
+To get our project running follow the steps below.
+1- Download  Node.js.
+2- Go to your project directory on your terminal.
+3- To install the Npm package dependencies, go to your terminal and type "npm install npm@latest -g".
+4- To build your program type "node ourServer/main.js".
+5- Double click the index file in the directory.
+6a- Share the URL to play with friends.
+6b- Change the room id after the # to make a custom room.
